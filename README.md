@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎨 Currently working on an rides app for my software development class<br>👩‍💻 Looking to collaborate on my Julia simulation program<br>🕵️ Looking for help with Django and Flutter<br>👩‍🏭 Learning Rust at the moment<br>👨‍🎓 UnB engineering student<br>🧞‍♀️ Contact me at eduardolobo1717@outlook.com.br
+👨‍🎨 Currently working on a rides app for my software development class<br>👩‍💻 Looking to collaborate on my Julia simulation program<br>🕵️ Looking for help with Django and Flutter<br>👩‍🏭 Learning Rust at the moment<br>👨‍🎓 UnB engineering student<br>🧞‍♀️ Contact me at eduardolobo1717@outlook.com.br
 
 
 ## 🌐 Socials:
